@@ -1,0 +1,20 @@
+{
+  "table": "addresses",
+  "total_rows": 0,
+  "dumped_rows": 0,
+  "columns": [
+    "fetched_coin_balance",
+    "fetched_coin_balance_block_number",
+    "hash",
+    "contract_code",
+    "inserted_at",
+    "updated_at",
+    "nonce",
+    "decompiled",
+    "verified",
+    "gas_used",
+    "transactions_count",
+    "token_transfers_count"
+  ],
+  "data": []
+}

@@ -1,0 +1,21 @@
+{
+  "network_id": "zoo-mainnet",
+  "network_name": "Zoo Mainnet",
+  "chain_id": 200200,
+  "symbol": "ZOO",
+  "version": "v1-200200",
+  "blockchain_id": "bXe2MhhAnXg6WGj6G8oDk55AKT1dMMsN72S8te7JdvzfZX1zM",
+  "description": "Zoo Network mainnet - gaming and NFT ecosystem",
+  "generated_at": "2025-06-24T23:22:26.068876",
+  "genesis_file": "/home/z/genesis-zoo/v1-200200/genesis_generated.json",
+  "total_supply_wei": "2000000000000000000000000000000",
+  "total_supply_ether": 2000000000000.0,
+  "allocations": [
+    {
+      "address": "0x9011E888251AB053B7bD1cdB598Db4f9DEd94714",
+      "balance_hex": "0x193e5939a08ce9dbd480000000",
+      "balance_wei": 2000000000000000000000000000000,
+      "balance_ether": 2000000000000.0
+    }
+  ]
+}

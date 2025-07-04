@@ -1,0 +1,14 @@
+{
+  "table": "address_coin_balances",
+  "total_rows": 0,
+  "dumped_rows": 0,
+  "columns": [
+    "address_hash",
+    "block_number",
+    "value",
+    "value_fetched_at",
+    "inserted_at",
+    "updated_at"
+  ],
+  "data": []
+}

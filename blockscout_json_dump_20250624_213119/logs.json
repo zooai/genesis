@@ -1,0 +1,20 @@
+{
+  "table": "logs",
+  "total_rows": 0,
+  "dumped_rows": 0,
+  "columns": [
+    "data",
+    "index",
+    "first_topic",
+    "second_topic",
+    "third_topic",
+    "fourth_topic",
+    "inserted_at",
+    "updated_at",
+    "address_hash",
+    "transaction_hash",
+    "block_hash",
+    "block_number"
+  ],
+  "data": []
+}

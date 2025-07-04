@@ -1,0 +1,30 @@
+{
+  "Name": "zoonet",
+  "VM": "Subnet-EVM",
+  "VMVersion": "v0.6.11",
+  "RPCVersion": 37,
+  "Subnet": "zoonet",
+  "ExternalToken": false,
+  "TokenName": "ZOO Token",
+  "TokenSymbol": "ZOO",
+  "ChainID": "200200",
+  "Version": "1.4.0",
+  "Networks": {
+    "zoonet": {
+      "SubnetID": "xJzemKCLvBNgzYHoBHzXQr9uesR3S3kf3YtZ5mPHTA9LafK6L",
+      "BlockchainID": "bXe2MhhAnXg6WGj6G8oDk55AKT1dMMsN72S8te7JdvzfZX1zM",
+      "RPCEndpoint": "http://127.0.0.1:9650/ext/bc/bXe2MhhAnXg6WGj6G8oDk55AKT1dMMsN72S8te7JdvzfZX1zM/rpc",
+      "WSEndpoint": "ws://127.0.0.1:9650/ext/bc/bXe2MhhAnXg6WGj6G8oDk55AKT1dMMsN72S8te7JdvzfZX1zM/ws"
+    }
+  },
+  "ImportedFromAPM": false,
+  "ImportedVMID": "",
+  "CustomVMRepoURL": "",
+  "CustomVMBranch": "",
+  "CustomVMBuildScript": "",
+  "TeleporterReady": true,
+  "TeleporterKey": "cli-teleporter-deployer",
+  "TeleporterVersion": "v1.0.0",
+  "RunRelayer": false,
+  "SubnetEVMMainnetChainID": 200200
+}

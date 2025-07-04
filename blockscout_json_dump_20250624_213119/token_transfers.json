@@ -1,0 +1,22 @@
+{
+  "table": "token_transfers",
+  "total_rows": 0,
+  "dumped_rows": 0,
+  "columns": [
+    "transaction_hash",
+    "log_index",
+    "from_address_hash",
+    "to_address_hash",
+    "amount",
+    "token_contract_address_hash",
+    "inserted_at",
+    "updated_at",
+    "block_number",
+    "block_hash",
+    "amounts",
+    "token_ids",
+    "token_type",
+    "block_consensus"
+  ],
+  "data": []
+}

@@ -1,0 +1,20 @@
+{
+  "table": "address_token_balances",
+  "total_rows": 0,
+  "dumped_rows": 0,
+  "columns": [
+    "id",
+    "address_hash",
+    "block_number",
+    "token_contract_address_hash",
+    "value",
+    "value_fetched_at",
+    "inserted_at",
+    "updated_at",
+    "token_id",
+    "token_type",
+    "refetch_after",
+    "retries_count"
+  ],
+  "data": []
+}
